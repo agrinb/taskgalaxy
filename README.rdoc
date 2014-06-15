@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My Application has 4 tables with 1 of the tables being a join between Users and Tasklist.
 
-Things you may want to cover:
+ER diagram can be found here:
 
-* Ruby version
+https://www.evernote.com/shard/s23/sh/f40a1423-f9a9-4a03-9831-b95249e59622/fe37ceaeb2a960c95f5b2ed3166b4fdc
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
